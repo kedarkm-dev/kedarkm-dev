@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kedarkm-dev
 - 👀 I’m interested in Frontend Developement, Full Stack
-- 🌱 I’m currently working in KNS Tek
+- 🌱 I’m currently working in Schneider Electric
 - 💞️ Collaborate on Front end Related Work and any kind of technical discussions
 - 📫 Reach Me - kedar.dev07@gmail.com
 
