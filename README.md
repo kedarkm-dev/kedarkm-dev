@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kedarkm-dev
+- 👋 Hi, I’m @kedarkm
 - 👀 I’m interested in Frontend Developement, Full Stack
 - 🌱 I’m currently working in Schneider Electric
 - 💞️ Collaborate on Front end Related Work and any kind of technical discussions
